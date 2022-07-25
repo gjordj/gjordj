@@ -22,7 +22,7 @@
 
 
 </h3>
-<a href="https://app.daily.dev/gjordj"><img src="https://api.daily.dev/devcards/fa863c91f5594a78be6265716d96995d.png?r=448" height="390px" align="right"" alt="Jordi Tarroch's Dev Card"/></a>
+<a href="https://app.daily.dev/gjordj"><img src="https://api.daily.dev/devcards/f89cac9d83df41318c717b817dcd6011.png?r=n8s" width="400" alt="Jordi's Dev Card"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gjordj&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
