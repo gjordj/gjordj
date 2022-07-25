@@ -10,9 +10,9 @@
 
 </div>
 <h3 align="left">
- -  🔭 Hands-on experience in:
+ 🔭 Hands-on experience in:
 
-- Quantitative trading, infrastructure building, strategy development, alpha research, project management, risk management, and trading execution with the primary goal of minimizing risk, discovering valuable features and insights, forecasting market prices, and executing with minimal `Transaction` `Cost`.
+- Quantitative trading, infrastructure building, strategy development, alpha research, project management, risk management, and trading execution with the primary goal of minimizing risk, discovering valuable features and insights, forecasting market prices, and executing with minimal Transaction Cost.
 
 
 </h3>
