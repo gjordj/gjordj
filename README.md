@@ -15,16 +15,14 @@
  
 - Leading, designing and implementing data engineering workflows, and managing the creation, training and deployment of machine learning models at a large scale. Actively assessing the effectiveness of models, and managing the launch of successful ones.
 
- 
 - Quantitative trading/research, infrastructure building, strategy development, alpha research, risk management, and trading execution with the primary goal of minimizing risk, discovering valuable features and insights, forecasting market prices, and executing with minimal Transaction Cost.
 
 - Project management
 
-
 </h3>
 <a href="https://app.daily.dev/gjordj"><img src="https://api.daily.dev/devcards/f89cac9d83df41318c717b817dcd6011.png?r=n8s"height="390px" align="right" alt="Jordi's Dev Card"/></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gjordj&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gjordj&label=Profile%20views&color=0e75b6&style=flat" alt="jordy" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sentinel_sail" target="blank"><img src="https://img.shields.io/twitter/follow/sentinel_sail?logo=twitter&style=for-the-badge" alt="jordi" /></a> </p>
 
@@ -40,24 +38,34 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sentinel_sail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
+<a href="https://twitter.com/sentinel_sail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jordy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rishav-chanda-b89a791b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+<img alt="Python" src="https://img.shields.io/badge/Python-green.svg?style=for-the-badge&logo=python&logoColor=yellow" />
+<img alt="R" src="https://img.shields.io/badge/R-blue.svg?style=for-the-badge&logo=R&logoColor=Blue" height="25px" />
+<img alt="SQL" src="https://img.shields.io/badge/SQL-white.svg?style=for-the-badge&logo=SQL&logoColor=black"  height="25px"/>
+<img alt="UNIX" src="https://img.shields.io/badge/UNIX-yellow.svg?style=for-the-badge&logo=UNIX&logoColor=green" height="25px" />
+<img alt="Matlab" src="https://img.shields.io/badge/Matlab-grey.svg?style=for-the-badge&logo=Matlab&logoColor=white"  height="25px"/>
+<img alt="PySpark" src="https://img.shields.io/badge/PySpark-violet.svg?style=for-the-badge&logo=PySpark&logoColor=yellow" height="25px" />
+<img alt="Tableau" src="https://img.shields.io/badge/Tableau-blue.svg?style=for-the-badge&logo=Tableau&logoColor=black" height="25px" />
+<img alt="VBA" src="https://img.shields.io/badge/VBA-white.svg?style=for-the-badge&logo=VBA&logoColor=black"  height="25px" />
+<img alt="C" src="https://img.shields.io/badge/C-blue.svg?style=for-the-badge&logo=C&logoColor=blue" height="25px" />
 
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a><a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a><a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<!-- <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
+<img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" height="25px"/>
+<img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25px"/>
+<img alt="Tailwidcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25px"/>
+<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  height="25px"/> -->
 
    </p>
+   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gjordj&show_icons=true&locale=en&theme=tokyonight"/></p>
 
-|                                                                       .                                                                       |                                                                  .                                                                   |
-| :-------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: |
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gjordj&theme=cobalt&&show_icons=true&locale=en&theme=tokyonight)](#!) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gjordj&show_icons=true&locale=en&theme=tokyonight)](#!) |
-
-<img src="https://alphacution.com/wp-content/uploads/2022/06/magic_hands_cards.gif" width="800" height="300" />
+<img src="https://alphacution.com/wp-content/uploads/2022/06/magic_hands_cards.gif" align="right" width="500" height="300" />
  </div>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p> -->
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jordy&&theme=tokyonight" alt="jordy" /></p> -->
