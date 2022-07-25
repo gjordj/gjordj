@@ -16,7 +16,9 @@
 - Leading, designing and implementing data engineering workflows, and managing the creation, training and deployment of machine learning models at a large scale. Actively assessing the effectiveness of models, and managing the launch of successful ones.
 
  
-- Quantitative trading, infrastructure building, strategy development, alpha research, project management, risk management, and trading execution with the primary goal of minimizing risk, discovering valuable features and insights, forecasting market prices, and executing with minimal Transaction Cost.
+- Quantitative trading/research, infrastructure building, strategy development, alpha research, risk management, and trading execution with the primary goal of minimizing risk, discovering valuable features and insights, forecasting market prices, and executing with minimal Transaction Cost.
+
+- Project management
 
 
 </h3>
