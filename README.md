@@ -57,4 +57,7 @@
 | :-------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: |
 | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gjordj&theme=cobalt&&show_icons=true&locale=en&theme=tokyonight)](#!) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gjordj&show_icons=true&locale=en&theme=tokyonight)](#!) |
 
+<img src="https://alphacution.com/wp-content/uploads/2022/06/magic_hands_cards.gif" width="800" height="300" />
+ </div>
+
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p> -->
