@@ -10,13 +10,10 @@
 
 </div>
 <h3 align="left">
- -  🔭 Dedicated analytical professional with hands-on experience in:
+ -  🔭 Hands-on experience in:
 
-- 🎭 Leading projects end-to-end, design data engineering workflows, train and deploy ML models at scale, assess impact and run experiments to test the success of `New Models`.
+- Quantitative trading, infrastructure building, strategy development, alpha research, project management, risk management, and trading execution with the primary goal of minimizing risk, discovering valuable features and insights, forecasting market prices, and executing with minimal `Transaction` `Cost`.
 
-- 🛒Quantitative trading, infrastructure building, strategy development, alpha research, project management, risk management, and trading execution with the primary goal of minimizing risk, discovering valuable features and insights, forecasting market prices, and executing with minimal `Transaction` `Cost`.
-
-- 🛵 Also has experience working. developing the AWS MLOps accelerator, leading a SCRUM team to create a Machine`Learning Solution`.
 
 </h3>
 <a href="https://app.daily.dev/gjordj"><img src="https://api.daily.dev/devcards/fa863c91f5594a78be6265716d96995d.png?r=448" height="390px" align="right"" alt="Jordi Tarroch's Dev Card"/></a>
