@@ -25,11 +25,11 @@
  
  - **Uncorrelated deep learning based trading strategies**
 
-- 💬 Ask me about:
+💬 Ask me about:
 
   - **DL , ML, financial markets, trading, data sets, algorithms, market microstructure, statistical analysis**
 
-- 📫 How to reach me: **jt@tsqcap.com**
+📫 How to reach me: **jt@tsqcap.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
