@@ -26,11 +26,11 @@
 
 <p align="left"> <a href="https://twitter.com/sentinel_sail" target="blank"><img src="https://img.shields.io/twitter/follow/sentinel_sail?logo=twitter&style=for-the-badge" alt="jordi" /></a> </p>
 
-- 🔭 I’m currently working on **new trading strategies**
+- 🔭 I’m currently working on **new deep learning based trading strategies**
 
-- 💬 Ask me about **DL , ML, financial markets, trading, data sets**
+- 💬 Ask me about **DL , ML, financial markets, trading, data sets, algorithms, market microstructure**
 
-- 📫 How to reach me **jt@tsqcap.com**
+- 📫 How to reach me: **jt@tsqcap.com**
 
 
 
