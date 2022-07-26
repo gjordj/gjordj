@@ -26,15 +26,13 @@
 
 <p align="left"> <a href="https://twitter.com/sentinel_sail" target="blank"><img src="https://img.shields.io/twitter/follow/sentinel_sail?logo=twitter&style=for-the-badge" alt="jordi" /></a> </p>
 
-- 🔭 I’m currently working on **Something Beautiful**
+- 🔭 I’m currently working on **new trading strategies**
 
-- 🌱 I’m currently learning **DevOps**
-
-- 💬 Ask me about **AI , ML**
+- 💬 Ask me about **DL , ML, financial markets, trading, data sets**
 
 - 📫 How to reach me **@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
