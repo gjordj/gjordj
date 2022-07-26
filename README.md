@@ -6,7 +6,7 @@
  </div>
 
 <div align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Jordi;Machine+Learning+NLP;Algorithmic+Trading+;AI+/+Deep+Learning;+Finance;Python+Developer;Risk+Management;Quantitative+Trading;Portfolio+Management" alt="Machine Learning, Finance"></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Jordi;Machine+Learning;NLP;Deep+Learning;Risk+Management;Quantitative+Research;Portfolio+Management" alt="Machine Learning"></a>
 
 </div>
 <h3 align="left">
