@@ -7,7 +7,7 @@
 
 <div align="center"> 
 
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%900072B1&size=30&center=true&vCenter=true&width=450&lines=Machine+Learning;NLP;Deep+Learning;Risk+Management;Quantitative+Research;Portfolio+Management" alt="Machine Learning"></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%900969DA&size=30&center=true&vCenter=true&width=450&lines=Machine+Learning;NLP;Deep+Learning;Risk+Management;Quantitative+Research;Portfolio+Management" alt="Machine Learning"></a>
 
 </div>
  
