@@ -1,4 +1,4 @@
- <div align='center'>
+<div align='center'>
  <!-- gif -->
  <!-- link to the app.webp gif -->
 
@@ -6,34 +6,29 @@
  </div>
 
 <div align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I am+Jordi;Machine+Learning;NLP;Deep+Learning;Risk+Management;Quantitative+Research;Portfolio+Management" alt="Machine Learning"></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I+am+Jordi;Machine+Learning;NLP;Deep+Learning;Risk+Management;Quantitative+Research;Portfolio+Management" alt="Machine Learning"></a>
 
 </div>
-<h3 align="left">
- 🔭 Hands-on experience in:
- 
- 
+
+🔭 Hands-on experience in:
+
 - Leading, designing and implementing data engineering workflows, and managing the creation, training and deployment of machine learning models at a large scale. Actively assessing the effectiveness of models, and managing the launch of successful ones.
 
 - Quantitative trading/research, infrastructure building, strategy development, alpha research, risk management, and trading execution with the primary goal of minimizing risk, discovering valuable features and insights, forecasting market prices, and executing with minimal Transaction Cost.
 
+<a href="https://app.daily.dev/gjordj"><img src="https://api.daily.dev/devcards/f89cac9d83df41318c717b817dcd6011.png?r=n8s" height="390px" align="right" alt="Jordi's Dev Card"/></a>
 
-</h3>
-<a href="https://app.daily.dev/gjordj"><img src="https://api.daily.dev/devcards/f89cac9d83df41318c717b817dcd6011.png?r=n8s"height="390px" align="right" alt="Jordi's Dev Card"/></a>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=gjordj&label=Profile%20views&color=0e75b6&style=flat" alt="jordy" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gjordj&label=Profile%20views&color=0e75b6&style=flat" alt="jordy" /> </p>
-
-<p align="left"> <a href="https://twitter.com/sentinel_sail" target="blank"><img src="https://img.shields.io/twitter/follow/sentinel_sail?logo=twitter&style=for-the-badge" alt="jordi" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sentinel_sail" target="blank"><img src="https://img.shields.io/twitter/follow/sentinel_sail?logo=twitter&style=for-the-badge" alt="jordi" /></a> </p> -->
 
 - 🔭 I’m currently working on **new deep learning based trading strategies**
 
 - 💬 Ask me about:
 
-    -  **DL , ML, financial markets, trading, data sets, algorithms, market microstructure**
+  - **DL , ML, financial markets, trading, data sets, algorithms, market microstructure**
 
 - 📫 How to reach me: **jt@tsqcap.com**
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -62,9 +57,8 @@
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  height="25px"/> -->
 
    </p>
-   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gjordj&show_icons=true&locale=en&theme=tokyonight"/></p>
+   <div margin-top='15px'>
+   <p><img align="le" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gjordj&show_icons=true&locale=en&theme=tokyonight"/></p>
 
-<img src="https://alphacution.com/wp-content/uploads/2022/06/magic_hands_cards.gif" align="right" width="500" height="300" />
+<img align="left" src="https://alphacution.com/wp-content/uploads/2022/06/magic_hands_cards.gif" align="right" width="600"  height="300" />
  </div>
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jordy&&theme=tokyonight" alt="jordy" /></p> -->
