@@ -28,7 +28,6 @@ I’m currently working on **new deep learning based trading strategies**
 
   - **DL , ML, financial markets, trading, data sets, algorithms, market microstructure**
 
-📫 How to reach me: **jt@tsqcap.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
