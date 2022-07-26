@@ -27,7 +27,7 @@
 
 💬 Ask me about:
 
-  - **DL , ML, financial markets, trading, data sets, algorithms, market microstructure, statistical analysis, feature engineering**
+  - **DL , ML, RL, financial markets, trading, data sets, algorithms, market microstructure, statistical analysis, feature engineering**
 
 📫 How to reach me: **jt@tsqcap.com**
 
