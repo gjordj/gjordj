@@ -30,7 +30,7 @@
 
 - 💬 Ask me about **DL , ML, financial markets, trading, data sets**
 
-- 📫 How to reach me **@gmail.com**
+- 📫 How to reach me **jt@tsqcap.com**
 
 
 
