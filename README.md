@@ -2,7 +2,7 @@
  <!-- gif -->
  <!-- link to the app.webp gif -->
 
- <img src="https://aakash-sheth.github.io/images/stock_price_forecasting/header.gif" width="800" height="300" />
+ <img src="https://aakash-sheth.github.io/images/stock_price_forecasting/header.gif" width="700" height="300" />
  </div>
 
 <div align="center">
