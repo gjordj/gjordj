@@ -2,33 +2,32 @@
  <!-- gif -->
  <!-- link to the app.webp gif -->
 
- <img src="https://aakash-sheth.github.io/images/stock_price_forecasting/header.gif" width="700" height="300" />
+ <img src="https://alphacution.com/wp-content/uploads/2022/06/magic_hands_cards.gif"  width="400" height="300" />
  </div>
 
-<div align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=Machine+Learning;NLP;Deep+Learning;Risk+Management;Quantitative+Research;Portfolio+Management" alt="Machine Learning"></a>
+<div align="center"> 
+
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%900072B1&size=30&center=true&vCenter=true&width=450&lines=Machine+Learning;NLP;Deep+Learning;Risk+Management;Quantitative+Research;Portfolio+Management" alt="Machine Learning"></a>
 
 </div>
-
+ 
 🔭 Hands-on experience in:
 
- - Leading, designing and implementing data engineering workflows, and managing the creation, training and deployment of machine learning models at a large scale. Actively assessing the effectiveness of models, and managing the launch of successful ones.
+- Leading, designing and implementing data engineering workflows, and managing the creation, training and deployment of machine learning models at a large scale. Actively assessing the effectiveness of models, and managing the launch of successful ones.
 
- - Quantitative trading/research, infrastructure building, strategy development, alpha research, risk management, and trading execution with the primary goal of minimizing risk, discovering valuable features and insights, forecasting market prices, and executing with minimal Transaction Cost.
-
-<a href="https://app.daily.dev/gjordj"><img src="https://api.daily.dev/devcards/f89cac9d83df41318c717b817dcd6011.png?r=n8s" height="390px" align="right" alt="Jordi's Dev Card"/></a>
+- Quantitative trading/research, infrastructure building, strategy development, alpha research, risk management, and trading execution with the primary goal of minimizing risk, discovering valuable features and insights, forecasting market prices, and executing with minimal Transaction Cost.
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=gjordj&label=Profile%20views&color=0e75b6&style=flat" alt="jordy" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sentinel_sail" target="blank"><img src="https://img.shields.io/twitter/follow/sentinel_sail?logo=twitter&style=for-the-badge" alt="jordi" /></a> </p> -->
 
-👨‍💻 I’m currently working on:
- - **deep learning based trading strategies**
+- 🔭 I’m currently working on **new deep learning based trading strategies**
 
-💬 Ask me about:
+- 💬 Ask me about:
 
   - **DL , ML, financial markets, trading, data sets, algorithms, market microstructure**
 
+- 📫 How to reach me: **jt@tsqcap.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -58,7 +57,8 @@
 
    </p>
    <div margin-top='15px'>
-   <p><img align="le" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gjordj&show_icons=true&locale=en&theme=tokyonight"/></p>
+   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gjordj&show_icons=true&locale=en&theme=tokyonight"/></p>
 
-<img align="left" src="https://alphacution.com/wp-content/uploads/2022/06/magic_hands_cards.gif" align="right" width="600"  height="300" />
- </div>
+<a href="https://app.daily.dev/gjordj"><img src="https://api.daily.dev/devcards/f89cac9d83df41318c717b817dcd6011.png?r=n8s" height="390px" align="right" alt="Jordi's Dev Card"/></a>
+
+   </div>
