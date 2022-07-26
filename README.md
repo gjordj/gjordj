@@ -12,9 +12,9 @@
 
 🔭 Hands-on experience in:
 
-- Leading, designing and implementing data engineering workflows, and managing the creation, training and deployment of machine learning models at a large scale. Actively assessing the effectiveness of models, and managing the launch of successful ones.
+ - Leading, designing and implementing data engineering workflows, and managing the creation, training and deployment of machine learning models at a large scale. Actively assessing the effectiveness of models, and managing the launch of successful ones.
 
-- Quantitative trading/research, infrastructure building, strategy development, alpha research, risk management, and trading execution with the primary goal of minimizing risk, discovering valuable features and insights, forecasting market prices, and executing with minimal Transaction Cost.
+ - Quantitative trading/research, infrastructure building, strategy development, alpha research, risk management, and trading execution with the primary goal of minimizing risk, discovering valuable features and insights, forecasting market prices, and executing with minimal Transaction Cost.
 
 <a href="https://app.daily.dev/gjordj"><img src="https://api.daily.dev/devcards/f89cac9d83df41318c717b817dcd6011.png?r=n8s" height="390px" align="right" alt="Jordi's Dev Card"/></a>
 
@@ -22,13 +22,13 @@
 
 <p align="left"> <a href="https://twitter.com/sentinel_sail" target="blank"><img src="https://img.shields.io/twitter/follow/sentinel_sail?logo=twitter&style=for-the-badge" alt="jordi" /></a> </p> -->
 
-- 🔭 I’m currently working on **new deep learning based trading strategies**
+I’m currently working on **new deep learning based trading strategies**
 
-- 💬 Ask me about:
+💬 Ask me about:
 
   - **DL , ML, financial markets, trading, data sets, algorithms, market microstructure**
 
-- 📫 How to reach me: **jt@tsqcap.com**
+📫 How to reach me: **jt@tsqcap.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
