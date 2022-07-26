@@ -28,7 +28,7 @@
 💬 Ask me about:
 
   - DL , ML, RL, NLP
-  - Financial markets, trading, data sets, algorithms, market microstructure, statistical analysis, feature engineering
+  - Financial markets, risk, trading, data sets, algorithms, market microstructure, statistical analysis, feature engineering
   - Genomics, DNA sequences, deep transformers
 
 📫 How to reach me: **jt@tsqcap.com**
