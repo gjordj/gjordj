@@ -11,7 +11,7 @@
 
 </div>
  
-🔭 Hands-on experience in:
+🚀 Hands-on experience in:
 
 - Leading, designing and implementing data engineering workflows, and managing the creation, training and deployment of machine learning models at a large scale. Actively assessing the effectiveness of models, and managing the launch of successful ones.
 
