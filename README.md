@@ -17,7 +17,6 @@
 
 - Quantitative trading/research, infrastructure building, strategy development, alpha research, risk management, and trading execution with the primary goal of minimizing risk, discovering valuable features and insights, forecasting market prices, and executing with minimal Transaction Cost.
 
-- Project management
 
 </h3>
 <a href="https://app.daily.dev/gjordj"><img src="https://api.daily.dev/devcards/f89cac9d83df41318c717b817dcd6011.png?r=n8s"height="390px" align="right" alt="Jordi's Dev Card"/></a>
