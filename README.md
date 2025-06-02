@@ -31,7 +31,7 @@
   - Financial markets, risk, trading, data sets, algorithms, market microstructure, statistical analysis, feature engineering
   - Genomics, DNA sequences, deep transformers
 
-📫 How to reach me: **jt@tsqcap.com**
+📫 How to reach me: **jtmejon@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
