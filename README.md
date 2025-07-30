@@ -21,7 +21,7 @@
 
 <p align="left"> <a href="https://twitter.com/sentinel_sail" target="blank"><img src="https://img.shields.io/twitter/follow/sentinel_sail?logo=twitter&style=for-the-badge" alt="jordi" /></a> </p> -->
 
-👨‍💻 I’m currently working on:
+👨‍💻 I'm currently working on:
  
   - **Uncorrelated deep learning based trading strategies**
 
@@ -51,6 +51,8 @@
 <img alt="Tableau" src="https://img.shields.io/badge/Tableau-blue.svg?style=for-the-badge&logo=Tableau&logoColor=black" height="25px" />
 <img alt="VBA" src="https://img.shields.io/badge/VBA-white.svg?style=for-the-badge&logo=VBA&logoColor=black"  height="25px" />
 <img alt="C" src="https://img.shields.io/badge/C-blue.svg?style=for-the-badge&logo=C&logoColor=blue" height="25px" />
+<img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px" />
+<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" height="25px" />
 
 <!-- <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
@@ -60,9 +62,3 @@
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  height="25px"/> -->
 
    </p>
-   <div margin-top='15px'>
-   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gjordj&show_icons=true&locale=en&theme=tokyonight"/></p>
-
-<a href="https://app.daily.dev/gjordj"><img src="https://api.daily.dev/devcards/f89cac9d83df41318c717b817dcd6011.png?r=n8s" height="390px" align="right" alt="Jordi's Dev Card"/></a>
-
-   </div>
