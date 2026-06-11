@@ -17,6 +17,14 @@
 
 ---
 
+<div align="center">
+
+**[About](#-about-me) · [Career](#-career) · [Education](#-education) · [Current Focus](#-current-focus) · [Selected Work](#-selected-work) · [Ask Me About](#-ask-me-about) · [Tech Stack](#-tech-stack) · [Stats](#-github-stats)**
+
+</div>
+
+---
+
 ## 🧭 About Me
 
 Investment Principal in New York, working across systematic trading and mobility operations. A decade in quantitative finance covering the full lifecycle: **alpha research → strategy development → risk management → execution**.
