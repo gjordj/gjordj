@@ -1,7 +1,7 @@
 <!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:39d353&height=210&section=header&text=Jordi%20Tarroch&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Investment%20Principal%20%C2%B7%20Entrepreneur%20%C2%B7%20New%20York&descSize=20&descAlignY=54" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:39d353&height=210&section=header&text=Jordi%20Tarroch&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Investment%20Principal%20%C2%B7%20Quantitative%20Finance%20%C2%B7%20New%20York&descSize=20&descAlignY=54" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=26&duration=3000&pause=800&color=1F6FEB&center=true&vCenter=true&width=600&lines=Building+Atlantic+Partners;Quantitative+Research;Low-Latency+%2F+HFT+Infrastructure;Machine+Learning+%26+Deep+Learning;Alpha+Research+%26+Risk+Management;Operations+Research+%26+Optimization" alt="Typing SVG" /></a>
 
@@ -19,11 +19,11 @@
 
 ## 🧭 About Me
 
-Investment Principal and entrepreneur in New York, building ventures across systematic trading and mobility operations. A decade in quantitative finance covering the full lifecycle: **alpha research → strategy development → risk management → execution**.
+Investment Principal in New York, building across systematic trading and mobility operations. A decade in quantitative finance covering the full lifecycle: **alpha research → strategy development → risk management → execution**.
 
 ### 💼 Career
 
-- 🌊 **Now — Investment Principal & founder-mode** — building **Atlantic Partners** (main venture), a systematic algorithmic trading system, and a mobility-operations venture.
+- 🌊 **Now — Investment Principal** — building **Atlantic Partners** (main venture), a systematic algorithmic trading system, and a mobility-operations business.
 - ⚡ **Pico** (2023 – 2026, NYC) — Engineer on low-latency trading infrastructure and market data systems, working with the **Redline Trading Solutions** stack: ultra-low-latency feed handlers, order execution gateways, and latency-sensitive production environments supporting institutional clients on execution technology.
 - 📊 **ACCI Capital Investments** (2016 – 2023) — Senior Quantitative Researcher; co-managed multi-asset UCITS funds for pension funds, insurance companies, and family offices. Built deep-learning models for US equity regime forecasting and dynamic allocation frameworks that reduced drawdowns through the 2020 COVID crisis. Led manager selection with full operational and investment due diligence.
 - 📈 **GAR Investment Managers** (2016) — Quantitative Researcher.
@@ -38,7 +38,7 @@ Investment Principal and entrepreneur in New York, building ventures across syst
 | :--- | :--- |
 | 🌊 **Atlantic Partners** — main venture | Quantitative trading & investment platform: real-time market-data and execution infrastructure, secure low-latency bridges between local execution environments and cloud-deployed dashboards |
 | 🧠 **Algorithmic trading system** | Uncorrelated deep-learning-based strategies — systematic futures research, backtesting, and live execution |
-| 🚕 **Mobility operations** | Operations research venture — optimization and data-driven decision making applied to urban mobility, fleet & ride operations |
+| 🚕 **Mobility operations** | Optimization and data-driven decision making applied to urban mobility, fleet & ride operations |
 | 🌐 **Production web apps** | A portfolio of private full-stack tools (health tracking, analytics dashboards, knowledge vaults) on Next.js + Vercel |
 
 ## 💬 Ask Me About
