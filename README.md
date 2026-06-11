@@ -23,7 +23,7 @@ Investment Principal in New York, building across systematic trading and mobilit
 
 ### 💼 Career
 
-- 🌊 **Now — Investment Principal** — building **Atlantic Partners** (main venture), a systematic algorithmic trading system, and a mobility-operations business.
+- 🌊 **Now — Investment Principal** — **Atlantic Partners**; also working on a systematic algorithmic trading system and mobility operations.
 - ⚡ **Pico** (2023 – 2026, NYC) — Engineer on low-latency trading infrastructure and market data systems, working with the **Redline Trading Solutions** stack: ultra-low-latency feed handlers, order execution gateways, and latency-sensitive production environments supporting institutional clients on execution technology.
 - 📊 **ACCI Capital Investments** (2016 – 2023) — Senior Quantitative Researcher; co-managed multi-asset UCITS funds for pension funds, insurance companies, and family offices. Built deep-learning models for US equity regime forecasting and dynamic allocation frameworks that reduced drawdowns through the 2020 COVID crisis. Led manager selection with full operational and investment due diligence.
 - 📈 **GAR Investment Managers** (2016) — Quantitative Researcher.
@@ -34,9 +34,9 @@ Investment Principal in New York, building across systematic trading and mobilit
 
 ## 🔬 Current Focus
 
-| Venture | What I'm building |
+| Area | What I'm working on |
 | :--- | :--- |
-| 🌊 **Atlantic Partners** — main venture | Quantitative trading & investment platform: real-time market-data and execution infrastructure, secure low-latency bridges between local execution environments and cloud-deployed dashboards |
+| 🌊 **Atlantic Partners** — primary focus | Quantitative trading & investment platform: real-time market-data and execution infrastructure, secure low-latency bridges between local execution environments and cloud-deployed dashboards |
 | 🧠 **Algorithmic trading system** | Uncorrelated deep-learning-based strategies — systematic futures research, backtesting, and live execution |
 | 🚕 **Mobility operations** | Optimization and data-driven decision making applied to urban mobility, fleet & ride operations |
 | 🌐 **Production web apps** | A portfolio of private full-stack tools (health tracking, analytics dashboards, knowledge vaults) on Next.js + Vercel |
