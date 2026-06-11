@@ -7,7 +7,7 @@
 
 <div align="center"> 
 
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%900969DA&size=30&center=true&vCenter=true&width=450&lines=Quantitative+Research;Machine+Learning;Deep+Learning;Trading+Infrastructure;Risk+Management;Operations+Research" alt="Quantitative Research"></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%900969DA&size=30&center=true&vCenter=true&width=450&lines=Quantitative+Research;Machine+Learning;Deep+Learning;Low-Latency+Trading;Trading+Infrastructure;Risk+Management;Operations+Research" alt="Quantitative Research"></a>
 
 </div>
  
@@ -16,6 +16,8 @@
 - Leading, designing and implementing data engineering workflows, and managing the creation, training and deployment of machine learning models at a large scale. Actively assessing the effectiveness of models, and managing the launch of successful ones.
 
 - Quantitative trading/research, infrastructure building, strategy development, alpha research, risk management, and trading execution with the primary goal of minimizing risk, discovering valuable features and insights, forecasting market prices, and executing with minimal Transaction Cost.
+
+- Low-latency / high-frequency trading infrastructure: worked at **Pico Quantitative Trading** with **Redline** HFT software — ultra-low-latency market data and order execution systems, feed handlers, and latency-sensitive production trading environments.
 
 - End-to-end product engineering: shipping full-stack web apps and internal tools from idea to production (Next.js / TypeScript / Vercel / serverless).
 
@@ -34,6 +36,7 @@
 
   - DL, ML, RL, NLP
   - Financial markets, risk, trading, data sets, algorithms, market microstructure, statistical analysis, feature engineering
+  - Low-latency / HFT systems: market data feed handlers, order execution gateways, tick-to-trade latency, co-location
   - Trading infrastructure: execution bridges, real-time data pipelines, cloud deployment
   - Operations research, optimization, logistics
   - Genomics, DNA sequences, deep transformers
