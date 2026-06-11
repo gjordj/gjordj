@@ -39,9 +39,9 @@ Investment Principal in New York, working across systematic trading and mobility
 | 🌊 **Atlantic Partners** — primary focus | Fund distribution & capital introduction — bringing institutional-quality, EU-regulated strategies (fixed income, alternatives, equities) to US investors seeking diversification |
 | 🧠 **Algorithmic trading system** | Uncorrelated systematic futures strategies — supervised ML alpha models layered with a deep reinforcement learning (PPO) execution agent, market-microstructure feature research, walk-forward validation with transaction-cost-aware backtesting, and live execution infrastructure |
 | 🚕 **Mobility operations** | Optimization and data-driven decision making applied to urban mobility, fleet & ride operations |
-| 🐾 **[PawSync](https://www.pawsync.org)** | Rescue-coordination platform for animal rescue organizations, built end-to-end — turns social-media engagement into organized volunteer action (foster, transport, adopt, pledge) on Next.js + Supabase, with AI-assisted volunteer-response classification |
+| 🐾 **[PawSync](https://www.pawsync.org)** | Rescue-coordination platform for animal rescue organizations, built end-to-end — turns social-media engagement into organized volunteer action (foster, transport, adopt, pledge), with AI-assisted triage of volunteer responses |
 | 🎙️ **Real-time AI voice filter** | Desktop app that isolates your voice and removes background noise — live for calls and streaming, plus a studio-quality cleanup mode for recordings — fully local, no cloud |
-| 🌐 **Production software** | A portfolio of private full-stack tools (health tracking, analytics dashboards, knowledge vaults) on Next.js + Vercel |
+| 🌐 **Production software** | A portfolio of private full-stack tools — health tracking, analytics dashboards, knowledge vaults — built and run in production for daily use |
 
 ## 📂 Selected Work
 
