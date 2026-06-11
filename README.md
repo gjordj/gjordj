@@ -42,7 +42,7 @@ Investment Principal in New York, working across systematic trading and mobility
 | 🐾 **[PawSync](https://www.pawsync.org)** | Rescue-coordination platform for animal rescue organizations, built end-to-end — turns social-media engagement into organized volunteer action (foster, transport, adopt, pledge), with AI-assisted triage of volunteer responses |
 | 🎙️ **Real-time AI voice filter** | Desktop app that isolates your voice and removes background noise as you speak — rebuilt around true streaming, so the delay is imperceptible on live calls and streams, with smart gating that keeps pauses truly silent (no keyboard or room bleed between phrases), high-fidelity output, and a studio-quality cleanup mode for recordings — fully local, no cloud |
 | 🌐 **Production software** | A portfolio of private full-stack tools — health tracking, analytics dashboards, knowledge vaults — built and run in production for daily use |
-| 🤖 **AI-assisted engineering** | Everything above is built and operated with AI as a force multiplier — Claude Code as a daily driver, running multiple parallel sessions and autonomous agents with persistent memory, scheduled agent runs, and multi-agent workflows that research, build, review, and deploy end-to-end |
+| 🤖 **AI-assisted engineering** | Everything above is built and operated with AI as a force multiplier — treating Claude Code as a programmable platform rather than a chat tool: reusable skills for recurring procedures, deterministic hooks for self-verifying loops (work can't complete until tests and checks pass), subagent orchestration with context isolation and per-task model selection, persistent agent memory across sessions, plugins and MCP integrations, and parallel sessions/worktrees that research, build, review, and deploy end-to-end |
 
 ## 📂 Selected Work
 
@@ -52,7 +52,7 @@ Investment Principal in New York, working across systematic trading and mobility
 
 ## 💬 Ask Me About
 
-`Deep Learning` · `Machine Learning` · `Reinforcement Learning` · `Computer Vision` · `NLP` · `AI-Assisted Engineering` · `Claude Code & Agentic Workflows` · `Multi-Agent Orchestration` · `Market Microstructure` · `Feed Handlers` · `Order Execution Gateways` · `Tick-to-Trade Latency` · `Co-location` · `Alpha Research` · `Feature Engineering` · `Portfolio Management` · `Manager Selection` · `UCITS & Multi-Asset Funds` · `Risk Management` · `Statistical Analysis` · `Operations Research` · `Optimization & Logistics` · `Real-Time Data Pipelines` · `Genomics & Deep Transformers`
+`Deep Learning` · `Machine Learning` · `Reinforcement Learning` · `Computer Vision` · `NLP` · `AI-Assisted Engineering` · `Claude Code & Agentic Workflows` · `Skills, Hooks & Subagents` · `Multi-Agent Orchestration` · `Context Engineering` · `Market Microstructure` · `Feed Handlers` · `Order Execution Gateways` · `Tick-to-Trade Latency` · `Co-location` · `Alpha Research` · `Feature Engineering` · `Portfolio Management` · `Manager Selection` · `UCITS & Multi-Asset Funds` · `Risk Management` · `Statistical Analysis` · `Operations Research` · `Optimization & Logistics` · `Real-Time Data Pipelines` · `Genomics & Deep Transformers`
 
 ## 🛠️ Tech Stack
 
