@@ -1,13 +1,13 @@
 <!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:39d353&height=210&section=header&text=Jordi%20Tarroch&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Entrepreneur%20%C2%B7%20Quantitative%20Trading%20%C2%B7%20NYC&descSize=20&descAlignY=54" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:39d353&height=210&section=header&text=Jordi%20Tarroch&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Investment%20Principal%20%C2%B7%20Entrepreneur%20%C2%B7%20New%20York&descSize=20&descAlignY=54" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=26&duration=3000&pause=800&color=1F6FEB&center=true&vCenter=true&width=600&lines=Building+Atlantic+Partners;Quantitative+Research;Low-Latency+%2F+HFT+Infrastructure;Machine+Learning+%26+Deep+Learning;Alpha+Research+%26+Risk+Management;Operations+Research+%26+Optimization" alt="Typing SVG" /></a>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/jorditarrochquant/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/jorditarroch/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 &nbsp;
 <a href="https://twitter.com/sentinel_sail"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter / X" /></a>
 &nbsp;
@@ -19,13 +19,18 @@
 
 ## 🧭 About Me
 
-Entrepreneur and quantitative researcher in New York, building ventures across systematic trading and mobility operations. My background covers the full lifecycle of systematic trading: **alpha research → strategy development → risk management → execution**.
+Investment Principal and entrepreneur in New York, building ventures across systematic trading and mobility operations. A decade in quantitative finance covering the full lifecycle: **alpha research → strategy development → risk management → execution**.
 
-- 📊 **Quant research background** — formerly a Senior Quantitative Researcher at a hedge fund in NYC.
-- ⚡ **Low-latency / HFT background** — previously at **Pico Quantitative Trading**, working with the **Redline Trading Solutions** stack: ultra-low-latency market data feed handlers, order execution gateways, and latency-sensitive production trading environments.
-- 🤖 **Machine learning at scale** — designing data engineering workflows and owning the training, deployment, and live evaluation of large-scale ML models.
-- 📈 **Quantitative trading & research** — alpha research, feature discovery, market-price forecasting, portfolio risk, and execution with minimal transaction cost.
-- 🛠️ **End-to-end product engineering** — shipping full-stack web apps and internal tools from idea to production (Next.js / TypeScript / Vercel / serverless).
+### 💼 Career
+
+- 🌊 **Now — Investment Principal & founder-mode** — building **Atlantic Partners** (main venture), a systematic algorithmic trading system, and a mobility-operations venture.
+- ⚡ **Pico** (2023 – 2026, NYC) — Engineer on low-latency trading infrastructure and market data systems, working with the **Redline Trading Solutions** stack: ultra-low-latency feed handlers, order execution gateways, and latency-sensitive production environments supporting institutional clients on execution technology.
+- 📊 **ACCI Capital Investments** (2016 – 2023) — Senior Quantitative Researcher; co-managed multi-asset UCITS funds for pension funds, insurance companies, and family offices. Built deep-learning models for US equity regime forecasting and dynamic allocation frameworks that reduced drawdowns through the 2020 COVID crisis. Led manager selection with full operational and investment due diligence.
+- 📈 **GAR Investment Managers** (2016) — Quantitative Researcher.
+
+### 🎓 Education
+
+**MS Data Science** — Fordham University · **MS Data Science for Finance** — CUNEF · **MS Applied Mathematics** — Universitat Politècnica de Catalunya · **Telecommunications Engineering** — Universitat Ramon Llull
 
 ## 🔬 Current Focus
 
@@ -38,7 +43,7 @@ Entrepreneur and quantitative researcher in New York, building ventures across s
 
 ## 💬 Ask Me About
 
-`Deep Learning` · `Machine Learning` · `Reinforcement Learning` · `NLP` · `Market Microstructure` · `Feed Handlers` · `Order Execution Gateways` · `Tick-to-Trade Latency` · `Co-location` · `Alpha Research` · `Feature Engineering` · `Risk Management` · `Statistical Analysis` · `Operations Research` · `Optimization & Logistics` · `Real-Time Data Pipelines` · `Genomics & Deep Transformers`
+`Deep Learning` · `Machine Learning` · `Reinforcement Learning` · `NLP` · `Market Microstructure` · `Feed Handlers` · `Order Execution Gateways` · `Tick-to-Trade Latency` · `Co-location` · `Alpha Research` · `Feature Engineering` · `Portfolio Management` · `Manager Selection` · `UCITS & Multi-Asset Funds` · `Risk Management` · `Statistical Analysis` · `Operations Research` · `Optimization & Logistics` · `Real-Time Data Pipelines` · `Genomics & Deep Transformers`
 
 ## 🛠️ Tech Stack
 
