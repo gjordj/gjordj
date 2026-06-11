@@ -40,7 +40,8 @@ Investment Principal in New York, working across systematic trading and mobility
 | 🧠 **Algorithmic trading system** | Uncorrelated deep-learning-based strategies — systematic futures research, backtesting, and live execution |
 | 🚕 **Mobility operations** | Optimization and data-driven decision making applied to urban mobility, fleet & ride operations |
 | 🐾 **[PawSync](https://www.pawsync.org)** | Rescue-coordination platform for animal rescue organizations, built end-to-end — turns social-media engagement into organized volunteer action (foster, transport, adopt, pledge) on Next.js + Supabase, with AI-assisted volunteer-response classification |
-| 🌐 **Production software** | A portfolio of private full-stack tools (health tracking, analytics dashboards, knowledge vaults) on Next.js + Vercel, plus desktop tooling such as a real-time AI voice filter (DeepFilterNet3 / MossFormer2 on GPU) |
+| 🎙️ **Real-time AI voice filter** | GPU-accelerated speech enhancement: DeepFilterNet3 for ~10–20 ms live filtering (calls, streaming) and MossFormer2 for studio-quality cleanup, behind a desktop GUI — fully local, no cloud; mobile port in the works |
+| 🌐 **Production software** | A portfolio of private full-stack tools (health tracking, analytics dashboards, knowledge vaults) on Next.js + Vercel |
 
 ## 📂 Selected Public Work
 
