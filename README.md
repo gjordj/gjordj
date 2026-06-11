@@ -45,7 +45,7 @@ Investment Principal in New York, working across systematic trading and mobility
 
 ## 📂 Selected Work
 
-- **[reality-explained](https://github.com/gjordj/reality-explained)** — an interactive 24-stage walkthrough of modern physics, information, and consciousness; every claim tagged by epistemic status, null results included · [live site](https://reality-explained.vercel.app)
+- **[reality-explained](https://github.com/gjordj/reality-explained)** — an interactive walkthrough of modern physics, information, and consciousness; every claim tagged by epistemic status, null results included · [live site](https://reality-explained.vercel.app)
 - **[spotify-popularity-prediction](https://github.com/gjordj/spotify-popularity-prediction)** — what makes a song popular? Predicting Spotify popularity from a track's audio characteristics alone, across 56k+ songs (2008–2019), with a 2026 revisit of the original study. The recipe that emerges: danceable, loud, short, darker-toned, with vocals — though sound shapes popularity only at the margins; fame, playlisting, and marketing do the rest
 - **facial-tension-detection** (private) — computer-vision biofeedback from a webcam: flags facial tension in real time and tracks time spent tense vs. relaxed, so you can notice and unlearn the habit. Privacy-first — no face images are ever stored
 
