@@ -23,7 +23,7 @@ Investment Principal in New York, building across systematic trading and mobilit
 
 ### 💼 Career
 
-- 🌊 **Now — Investment Principal** — **Atlantic Partners**; also working on a systematic algorithmic trading system and mobility operations.
+- 🌊 **Now — Investment Principal** — **Atlantic Partners**: fund distribution & capital introduction, connecting US investors with institutional-quality, EU-regulated strategies across fixed income, alternatives, and equities. Also working on a systematic algorithmic trading system and mobility operations.
 - ⚡ **Pico** (2023 – 2026, NYC) — Engineer on low-latency trading infrastructure and market data systems, working with the **Redline Trading Solutions** stack: ultra-low-latency feed handlers, order execution gateways, and latency-sensitive production environments supporting institutional clients on execution technology.
 - 📊 **ACCI Capital Investments** (2016 – 2023) — Senior Quantitative Researcher; co-managed multi-asset UCITS funds for pension funds, insurance companies, and family offices. Built deep-learning models for US equity regime forecasting and dynamic allocation frameworks that reduced drawdowns through the 2020 COVID crisis. Led manager selection with full operational and investment due diligence.
 - 📈 **GAR Investment Managers** (2016) — Quantitative Researcher.
@@ -36,9 +36,10 @@ Investment Principal in New York, building across systematic trading and mobilit
 
 | Area | What I'm working on |
 | :--- | :--- |
-| 🌊 **Atlantic Partners** — primary focus | Quantitative trading & investment platform: real-time market-data and execution infrastructure, secure low-latency bridges between local execution environments and cloud-deployed dashboards |
+| 🌊 **Atlantic Partners** — primary focus | Fund distribution & capital introduction — bringing institutional-quality, EU-regulated strategies (fixed income, alternatives, equities) to US investors seeking diversification |
 | 🧠 **Algorithmic trading system** | Uncorrelated deep-learning-based strategies — systematic futures research, backtesting, and live execution |
 | 🚕 **Mobility operations** | Optimization and data-driven decision making applied to urban mobility, fleet & ride operations |
+| 🐾 **[PawSync](https://www.pawsync.org)** | Rescue-coordination platform for animal rescue organizations, built end-to-end — turns social-media engagement into organized volunteer action (foster, transport, adopt, pledge) on Next.js + Supabase, with AI-assisted volunteer-response classification |
 | 🌐 **Production web apps** | A portfolio of private full-stack tools (health tracking, analytics dashboards, knowledge vaults) on Next.js + Vercel |
 
 ## 💬 Ask Me About
