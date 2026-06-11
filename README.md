@@ -40,7 +40,13 @@ Investment Principal in New York, working across systematic trading and mobility
 | 🧠 **Algorithmic trading system** | Uncorrelated deep-learning-based strategies — systematic futures research, backtesting, and live execution |
 | 🚕 **Mobility operations** | Optimization and data-driven decision making applied to urban mobility, fleet & ride operations |
 | 🐾 **[PawSync](https://www.pawsync.org)** | Rescue-coordination platform for animal rescue organizations, built end-to-end — turns social-media engagement into organized volunteer action (foster, transport, adopt, pledge) on Next.js + Supabase, with AI-assisted volunteer-response classification |
-| 🌐 **Production web apps** | A portfolio of private full-stack tools (health tracking, analytics dashboards, knowledge vaults) on Next.js + Vercel |
+| 🌐 **Production software** | A portfolio of private full-stack tools (health tracking, analytics dashboards, knowledge vaults) on Next.js + Vercel, plus desktop tooling such as a real-time AI voice filter (DeepFilterNet3 / MossFormer2 on GPU) |
+
+## 📂 Selected Public Work
+
+- **[reality-explained](https://github.com/gjordj/reality-explained)** — an interactive 24-stage walkthrough of modern physics, information, and consciousness; every claim tagged by epistemic status, null results included · [live site](https://reality-explained.vercel.app)
+- **[spotify-popularity-prediction](https://github.com/gjordj/spotify-popularity-prediction)** — benchmarking CatBoost vs XGBoost vs NGBoost (and classical baselines) on 10-class song-popularity prediction from Spotify audio features
+- **[claude-history-browser](https://github.com/gjordj/claude-history-browser)** — desktop app for searching, filtering, and resuming Claude Code conversation history
 
 ## 💬 Ask Me About
 
