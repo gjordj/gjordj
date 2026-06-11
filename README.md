@@ -43,15 +43,16 @@ Investment Principal in New York, working across systematic trading and mobility
 | 🎙️ **Real-time AI voice filter** | GPU-accelerated speech enhancement: DeepFilterNet3 for ~10–20 ms live filtering (calls, streaming) and MossFormer2 for studio-quality cleanup, behind a desktop GUI — fully local, no cloud; mobile port in the works |
 | 🌐 **Production software** | A portfolio of private full-stack tools (health tracking, analytics dashboards, knowledge vaults) on Next.js + Vercel |
 
-## 📂 Selected Public Work
+## 📂 Selected Work
 
 - **[reality-explained](https://github.com/gjordj/reality-explained)** — an interactive 24-stage walkthrough of modern physics, information, and consciousness; every claim tagged by epistemic status, null results included · [live site](https://reality-explained.vercel.app)
 - **[spotify-popularity-prediction](https://github.com/gjordj/spotify-popularity-prediction)** — benchmarking CatBoost vs XGBoost vs NGBoost (and classical baselines) on 10-class song-popularity prediction from Spotify audio features
 - **[claude-history-browser](https://github.com/gjordj/claude-history-browser)** — desktop app for searching, filtering, and resuming Claude Code conversation history
+- **facial-tension-detection** (private) — real-time facial-tension biofeedback from a webcam: MediaPipe Face Mesh landmarks (478 3-D points — no raw face images stored) feeding SVM, MLP, and ResNet50V2 classifiers; 94% test accuracy with the MLP. Deep Learning course project, Fordham
 
 ## 💬 Ask Me About
 
-`Deep Learning` · `Machine Learning` · `Reinforcement Learning` · `NLP` · `Market Microstructure` · `Feed Handlers` · `Order Execution Gateways` · `Tick-to-Trade Latency` · `Co-location` · `Alpha Research` · `Feature Engineering` · `Portfolio Management` · `Manager Selection` · `UCITS & Multi-Asset Funds` · `Risk Management` · `Statistical Analysis` · `Operations Research` · `Optimization & Logistics` · `Real-Time Data Pipelines` · `Genomics & Deep Transformers`
+`Deep Learning` · `Machine Learning` · `Reinforcement Learning` · `Computer Vision` · `NLP` · `Market Microstructure` · `Feed Handlers` · `Order Execution Gateways` · `Tick-to-Trade Latency` · `Co-location` · `Alpha Research` · `Feature Engineering` · `Portfolio Management` · `Manager Selection` · `UCITS & Multi-Asset Funds` · `Risk Management` · `Statistical Analysis` · `Operations Research` · `Optimization & Logistics` · `Real-Time Data Pipelines` · `Genomics & Deep Transformers`
 
 ## 🛠️ Tech Stack
 
