@@ -42,6 +42,7 @@ Investment Principal in New York, working across systematic trading and mobility
 | 🐾 **[PawSync](https://www.pawsync.org)** | Rescue-coordination platform for animal rescue organizations, built end-to-end — turns social-media engagement into organized volunteer action (foster, transport, adopt, pledge), with AI-assisted triage of volunteer responses |
 | 🎙️ **Real-time AI voice filter** | Desktop app that isolates your voice and removes background noise as you speak — rebuilt around true streaming, so the delay is imperceptible on live calls and streams, with smart gating that keeps pauses truly silent (no keyboard or room bleed between phrases), high-fidelity output, and a studio-quality cleanup mode for recordings — fully local, no cloud |
 | 🌐 **Production software** | A portfolio of private full-stack tools — health tracking, analytics dashboards, knowledge vaults — built and run in production for daily use |
+| 🤖 **AI-assisted engineering** | Everything above is built and operated with AI as a force multiplier — Claude Code as a daily driver, running multiple parallel sessions and autonomous agents with persistent memory, scheduled agent runs, and multi-agent workflows that research, build, review, and deploy end-to-end |
 
 ## 📂 Selected Work
 
@@ -51,7 +52,7 @@ Investment Principal in New York, working across systematic trading and mobility
 
 ## 💬 Ask Me About
 
-`Deep Learning` · `Machine Learning` · `Reinforcement Learning` · `Computer Vision` · `NLP` · `Market Microstructure` · `Feed Handlers` · `Order Execution Gateways` · `Tick-to-Trade Latency` · `Co-location` · `Alpha Research` · `Feature Engineering` · `Portfolio Management` · `Manager Selection` · `UCITS & Multi-Asset Funds` · `Risk Management` · `Statistical Analysis` · `Operations Research` · `Optimization & Logistics` · `Real-Time Data Pipelines` · `Genomics & Deep Transformers`
+`Deep Learning` · `Machine Learning` · `Reinforcement Learning` · `Computer Vision` · `NLP` · `AI-Assisted Engineering` · `Claude Code & Agentic Workflows` · `Multi-Agent Orchestration` · `Market Microstructure` · `Feed Handlers` · `Order Execution Gateways` · `Tick-to-Trade Latency` · `Co-location` · `Alpha Research` · `Feature Engineering` · `Portfolio Management` · `Manager Selection` · `UCITS & Multi-Asset Funds` · `Risk Management` · `Statistical Analysis` · `Operations Research` · `Optimization & Logistics` · `Real-Time Data Pipelines` · `Genomics & Deep Transformers`
 
 ## 🛠️ Tech Stack
 
@@ -66,6 +67,10 @@ Investment Principal in New York, working across systematic trading and mobility
 **Product & Web**
 
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+
+**AI & Agents**
+
+<img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" /> <img alt="Anthropic API" src="https://img.shields.io/badge/Anthropic_API-191919?style=for-the-badge&logo=anthropic&logoColor=white" /> <img alt="Multi-Agent Workflows" src="https://img.shields.io/badge/Multi--Agent_Workflows-0C447C?style=for-the-badge" /> <img alt="MCP" src="https://img.shields.io/badge/MCP-444441?style=for-the-badge" />
 
 ## 📊 GitHub Stats
 
