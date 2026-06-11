@@ -1,9 +1,9 @@
 <!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:39d353&height=210&section=header&text=Jordi%20Tarroch&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Senior%20Quantitative%20Researcher%20%C2%B7%20Hedge%20Fund%20%C2%B7%20NYC&descSize=20&descAlignY=54" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:39d353&height=210&section=header&text=Jordi%20Tarroch&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Entrepreneur%20%C2%B7%20Quantitative%20Trading%20%C2%B7%20NYC&descSize=20&descAlignY=54" width="100%" alt="header" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=26&duration=3000&pause=800&color=1F6FEB&center=true&vCenter=true&width=600&lines=Quantitative+Research;Low-Latency+%2F+HFT+Infrastructure;Machine+Learning+%26+Deep+Learning;Alpha+Research+%26+Risk+Management;Operations+Research+%26+Optimization" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=26&duration=3000&pause=800&color=1F6FEB&center=true&vCenter=true&width=600&lines=Building+Atlantic+Partners;Quantitative+Research;Low-Latency+%2F+HFT+Infrastructure;Machine+Learning+%26+Deep+Learning;Alpha+Research+%26+Risk+Management;Operations+Research+%26+Optimization" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -19,8 +19,9 @@
 
 ## 🧭 About Me
 
-Senior Quantitative Researcher at a hedge fund in New York, working across the full lifecycle of systematic trading: **alpha research → strategy development → risk management → execution**.
+Entrepreneur and quantitative researcher in New York, building ventures across systematic trading and mobility operations. My background covers the full lifecycle of systematic trading: **alpha research → strategy development → risk management → execution**.
 
+- 📊 **Quant research background** — formerly a Senior Quantitative Researcher at a hedge fund in NYC.
 - ⚡ **Low-latency / HFT background** — previously at **Pico Quantitative Trading**, working with the **Redline Trading Solutions** stack: ultra-low-latency market data feed handlers, order execution gateways, and latency-sensitive production trading environments.
 - 🤖 **Machine learning at scale** — designing data engineering workflows and owning the training, deployment, and live evaluation of large-scale ML models.
 - 📈 **Quantitative trading & research** — alpha research, feature discovery, market-price forecasting, portfolio risk, and execution with minimal transaction cost.
@@ -28,11 +29,11 @@ Senior Quantitative Researcher at a hedge fund in New York, working across the f
 
 ## 🔬 Current Focus
 
-| Area | What I'm building |
+| Venture | What I'm building |
 | :--- | :--- |
-| 🧠 **Systematic trading strategies** | Uncorrelated deep-learning-based strategies — futures research, backtesting, and live execution |
-| ⚡ **Trading infrastructure** | Real-time market-data & execution infrastructure — secure low-latency bridges between local execution environments and cloud-deployed dashboards |
-| 🚕 **Operations research** | Optimization and data-driven decision making applied to urban mobility, fleet & ride operations |
+| 🌊 **Atlantic Partners** — main venture | Quantitative trading & investment platform: real-time market-data and execution infrastructure, secure low-latency bridges between local execution environments and cloud-deployed dashboards |
+| 🧠 **Algorithmic trading system** | Uncorrelated deep-learning-based strategies — systematic futures research, backtesting, and live execution |
+| 🚕 **Mobility operations** | Operations research venture — optimization and data-driven decision making applied to urban mobility, fleet & ride operations |
 | 🌐 **Production web apps** | A portfolio of private full-stack tools (health tracking, analytics dashboards, knowledge vaults) on Next.js + Vercel |
 
 ## 💬 Ask Me About
