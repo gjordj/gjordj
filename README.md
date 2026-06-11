@@ -1,9 +1,9 @@
 <!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:39d353&height=210&section=header&text=Jordi%20Tarroch&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Investment%20Principal%20%C2%B7%20Quantitative%20Finance%20%C2%B7%20New%20York&descSize=20&descAlignY=54" width="100%" alt="header" />
+<img src="assets/banner.svg" width="100%" alt="Jordi Tarroch — Investment Principal · Quantitative Finance · New York" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=26&duration=3000&pause=800&color=1F6FEB&center=true&vCenter=true&width=600&lines=Building+Atlantic+Partners;Quantitative+Research;Low-Latency+%2F+HFT+Infrastructure;Machine+Learning+%26+Deep+Learning;Alpha+Research+%26+Risk+Management;Operations+Research+%26+Optimization" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=26&duration=3000&pause=800&color=1F6FEB&center=true&vCenter=true&width=600&lines=Atlantic+Partners;Quantitative+Research;Low-Latency+%2F+HFT+Infrastructure;Machine+Learning+%26+Deep+Learning;Alpha+Research+%26+Risk+Management;Operations+Research+%26+Optimization" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -19,7 +19,7 @@
 
 ## 🧭 About Me
 
-Investment Principal in New York, building across systematic trading and mobility operations. A decade in quantitative finance covering the full lifecycle: **alpha research → strategy development → risk management → execution**.
+Investment Principal in New York, working across systematic trading and mobility operations. A decade in quantitative finance covering the full lifecycle: **alpha research → strategy development → risk management → execution**.
 
 ### 💼 Career
 

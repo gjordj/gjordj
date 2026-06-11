@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-label="Jordi Tarroch — Investment Principal · Quantitative Finance · New York" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif">
+  <defs>
+    <radialGradient id="bg" cx="28%" cy="35%" r="95%">
+      <stop offset="0%" stop-color="#111a2b"/>
+      <stop offset="60%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#0b0e13"/>
+    </radialGradient>
+    <linearGradient id="sig" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#5DCAA5"/>
+      <stop offset="55%" stop-color="#85B7EB"/>
+      <stop offset="100%" stop-color="#AFA9EC"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#85B7EB" stop-opacity=".14"/>
+      <stop offset="100%" stop-color="#85B7EB" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)" rx="16"/>
+
+  <!-- faint grid -->
+  <g stroke="#1d2430" stroke-width="1">
+    <line x1="0" y1="75" x2="1200" y2="75"/>
+    <line x1="0" y1="150" x2="1200" y2="150"/>
+    <line x1="0" y1="225" x2="1200" y2="225"/>
+    <line x1="300" y1="0" x2="300" y2="300"/>
+    <line x1="600" y1="0" x2="600" y2="300"/>
+    <line x1="900" y1="0" x2="900" y2="300"/>
+  </g>
+
+  <!-- the noise: faint, jagged, going nowhere -->
+  <polyline points="60,235 110,244 160,228 210,246 260,232 310,242 360,226 410,243 460,230 510,244 560,229 610,241 660,228 710,244 760,231 810,242 860,227 910,243 960,230 1010,241 1060,229 1110,240 1150,232"
+            fill="none" stroke="#3a4254" stroke-width="1.2" opacity=".5">
+    <animate attributeName="opacity" values=".5;.25;.5" dur="6s" repeatCount="indefinite"/>
+  </polyline>
+
+  <!-- the signal: drawn out of the noise, forever -->
+  <path id="curve" d="M 60 238 C 140 230 180 252 240 232 S 340 188 400 200 S 500 232 560 194 S 660 128 720 150 S 820 182 880 138 S 980 78 1040 95 S 1120 86 1148 70"
+        fill="none" stroke="url(#sig)" stroke-width="3" stroke-linecap="round" filter="url(#glow)"
+        stroke-dasharray="1500" stroke-dashoffset="1500">
+    <animate attributeName="stroke-dashoffset" values="1500;0;0;1500" keyTimes="0;.55;.8;1" dur="11s" repeatCount="indefinite"/>
+  </path>
+  <!-- soft area under the signal -->
+  <path d="M 60 238 C 140 230 180 252 240 232 S 340 188 400 200 S 500 232 560 194 S 660 128 720 150 S 820 182 880 138 S 980 78 1040 95 S 1120 86 1148 70 L 1148 300 L 60 300 Z"
+        fill="url(#fade)" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.55;.8;1" dur="11s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- data points waking up along the signal -->
+  <g fill="#85B7EB">
+    <circle cx="400" cy="200" r="3"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.3;.8;1" dur="11s" begin="2.2s" repeatCount="indefinite"/></circle>
+    <circle cx="560" cy="194" r="3" fill="#5DCAA5"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.3;.8;1" dur="11s" begin="3.1s" repeatCount="indefinite"/></circle>
+    <circle cx="720" cy="150" r="3"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.3;.8;1" dur="11s" begin="4s" repeatCount="indefinite"/></circle>
+    <circle cx="880" cy="138" r="3" fill="#5DCAA5"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.3;.8;1" dur="11s" begin="4.8s" repeatCount="indefinite"/></circle>
+    <circle cx="1040" cy="95" r="3"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.3;.8;1" dur="11s" begin="5.5s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- the live edge: pulsing halo where the signal ends -->
+  <g>
+    <circle cx="1148" cy="70" r="5" fill="#AFA9EC" filter="url(#glow)">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.5;.6;.8;1" dur="11s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1148" cy="70" r="5" fill="none" stroke="#AFA9EC" stroke-width="1.5">
+      <animate attributeName="r" values="5;22" dur="2.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".8;0" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1148" cy="70" r="30" fill="none" stroke="#AFA9EC" stroke-width="1" stroke-dasharray="4 7" opacity=".55">
+      <animateTransform attributeName="transform" type="rotate" from="0 1148 70" to="360 1148 70" dur="18s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- name -->
+  <g>
+    <text x="76" y="128" font-size="54" font-weight="650" fill="#e6edf3" letter-spacing="0.5">Jordi Tarroch
+      <animate attributeName="opacity" values="0;1" dur="1.6s" fill="freeze"/>
+    </text>
+    <text x="78" y="166" font-size="20" fill="#9aa4b2" letter-spacing="2.5">INVESTMENT PRINCIPAL · QUANTITATIVE FINANCE · NEW YORK
+      <animate attributeName="opacity" values="0;0;1" keyTimes="0;.4;1" dur="2.4s" fill="freeze"/>
+    </text>
+    <g font-size="13" fill="#6e7a8a" letter-spacing="1.2">
+      <text x="78" y="200">signal · from · noise
+        <animate attributeName="opacity" values="0;0;.9" keyTimes="0;.6;1" dur="3.2s" fill="freeze"/>
+      </text>
+    </g>
+  </g>
+</svg>
