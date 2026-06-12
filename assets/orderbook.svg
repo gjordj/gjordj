@@ -77,10 +77,10 @@
 
     <!-- ============ TITLE BLOCK ============ -->
     <g>
-      <text x="70" y="92" font-size="40" font-weight="650" fill="url(#titleGrad)" letter-spacing="0.5">Price Discovery
+      <text x="70" y="92" font-size="40" font-weight="650" fill="url(#titleGrad)" letter-spacing="0.5">The Order Book
         <animate attributeName="opacity" values="0;1" dur="1.4s" fill="freeze"/>
       </text>
-      <text x="72" y="124" font-size="15" fill="#9aa4b2" letter-spacing="2.5">THE LIMIT ORDER BOOK · LEVEL 2
+      <text x="72" y="124" font-size="15" fill="#9aa4b2" letter-spacing="2.5">BIDS · ASKS · QUOTES · PRINTS
         <animate attributeName="opacity" values="0;0;1" keyTimes="0;.4;1" dur="2.2s" fill="freeze"/>
       </text>
 

@@ -13,11 +13,6 @@
 &nbsp;
 <a href="mailto:jtmejon@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<br/>
-<br/>
-
-<img src="assets/orderbook.svg" width="100%" alt="Price discovery — a live limit order book: bids, asks, quotes, and prints streaming to the tape" />
-
 </div>
 
 ---
@@ -94,6 +89,6 @@ Investment Principal in New York, working across systematic trading and mobility
 
 📫 **Reach me:** [jtmejon@gmail.com](mailto:jtmejon@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39d353,50:1f6feb,100:0d1117&height=120&section=footer" width="100%" alt="footer" />
+<img src="assets/orderbook.svg" width="100%" alt="The order book — bids, asks, quotes, and prints streaming to the tape" />
 
 </div>
