@@ -48,9 +48,9 @@ Investment Principal in New York, working across systematic trading and mobility
 | 🧠 **Algorithmic trading system** | Uncorrelated systematic futures strategies — supervised ML alpha models layered with a deep reinforcement learning (PPO) execution agent, market-microstructure feature research, walk-forward validation with transaction-cost-aware backtesting, and live execution infrastructure |
 | 🚕 **Mobility operations** | Optimization and data-driven decision making applied to urban mobility, fleet & ride operations |
 | 🐾 **[PawSync](https://www.pawsync.org)** | Rescue-coordination platform for animal rescue organizations, built end-to-end — turns social-media engagement into organized volunteer action (foster, transport, adopt, pledge), with AI-assisted triage of volunteer responses |
-| 🎙️ **Real-time AI voice filter** | Desktop app that isolates your voice and removes background noise as you speak — rebuilt around true streaming, so the delay is imperceptible on live calls and streams, with smart gating that keeps pauses truly silent (no keyboard or room bleed between phrases), high-fidelity output, and a studio-quality cleanup mode for recordings — fully local, no cloud |
+| 🎙️ **Real-time AI voice filter** | Desktop app that isolates your voice and removes background noise as you speak — a true-streaming rebuild keeps the delay imperceptible on live calls, with smart gating that holds pauses truly silent (no keyboard or room bleed between phrases) and a studio-quality cleanup mode for recordings. Fully local, no cloud |
 | 🌐 **Production software** | A portfolio of private full-stack tools — health tracking, analytics dashboards, knowledge vaults — built and run in production for daily use |
-| 🤖 **AI-assisted engineering** | Everything above is built and operated with AI as a force multiplier — treating Claude Code as a programmable platform rather than a chat tool: reusable skills for recurring procedures, deterministic hooks for self-verifying loops (work can't complete until tests and checks pass), subagent orchestration with context isolation and per-task model selection, persistent agent memory across sessions, plugins and MCP integrations, and parallel sessions/worktrees that research, build, review, and deploy end-to-end |
+| 🤖 **AI-assisted engineering** | Everything above is built and operated with AI as a force multiplier — treating Claude Code as a programmable platform, not a chat tool: reusable skills for recurring procedures, deterministic hooks that block completion until tests and checks pass, subagent orchestration with context isolation and per-task model selection, persistent memory across sessions, MCP integrations, and parallel worktrees that research, build, review, and deploy end-to-end |
 
 ## 📂 Selected Work
 
@@ -61,7 +61,7 @@ Investment Principal in New York, working across systematic trading and mobility
 
 ## 💬 Ask Me About
 
-`Deep Learning` · `Machine Learning` · `Reinforcement Learning` · `Computer Vision` · `NLP` · `AI-Assisted Engineering` · `Claude Code & Agentic Workflows` · `Skills, Hooks & Subagents` · `Multi-Agent Orchestration` · `Context Engineering` · `Market Microstructure` · `Feed Handlers` · `Order Execution Gateways` · `Tick-to-Trade Latency` · `Co-location` · `Alpha Research` · `Feature Engineering` · `Portfolio Management` · `Manager Selection` · `UCITS & Multi-Asset Funds` · `Risk Management` · `Statistical Analysis` · `Operations Research` · `Optimization & Logistics` · `Real-Time Data Pipelines` · `Genomics & Deep Transformers`
+`Alpha Research` · `Market Microstructure` · `Low-Latency / HFT Infrastructure` · `Feed Handlers` · `Order Execution Gateways` · `Tick-to-Trade Latency` · `Co-location` · `Portfolio & Risk Management` · `UCITS & Multi-Asset Funds` · `Manager Selection` · `Machine Learning` · `Deep Learning` · `Reinforcement Learning` · `Computer Vision` · `Operations Research & Optimization` · `AI-Assisted Engineering` · `Claude Code & Agentic Workflows` · `Multi-Agent Orchestration`
 
 ## 🛠️ Tech Stack
 
@@ -85,7 +85,7 @@ Investment Principal in New York, working across systematic trading and mobility
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gjordj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=gjordj&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gjordj&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top languages" />
 
 <br/><br/>
