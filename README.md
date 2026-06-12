@@ -19,7 +19,7 @@
 
 <div align="center">
 
-**[About](#-about-me) · [Career](#-career) · [Education](#-education) · [Current Focus](#-current-focus) · [Selected Work](#-selected-work) · [Ask Me About](#-ask-me-about) · [Tech Stack](#-tech-stack) · [Stats](#-github-stats)**
+**[About](#-about-me) · [Career](#-career) · [Education](#-education) · [Current Focus](#-current-focus) · [Selected Work](#-selected-work) · [Ask Me About](#-ask-me-about) · [Tech Stack](#-tech-stack)**
 
 </div>
 
@@ -80,19 +80,6 @@ Investment Principal in New York, working across systematic trading and mobility
 **AI & Agents**
 
 <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" /> <img alt="Anthropic API" src="https://img.shields.io/badge/Anthropic_API-191919?style=for-the-badge&logo=anthropic&logoColor=white" /> <img alt="Multi-Agent Workflows" src="https://img.shields.io/badge/Multi--Agent_Workflows-0C447C?style=for-the-badge" /> <img alt="MCP" src="https://img.shields.io/badge/MCP-444441?style=for-the-badge" />
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=gjordj&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gjordj&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top languages" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=gjordj&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" />
-
-</div>
 
 ---
 
