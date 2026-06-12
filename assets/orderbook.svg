@@ -12,7 +12,7 @@
       <stop offset="45%" stop-color="#ffffff"/>
       <stop offset="55%" stop-color="#ffffff"/>
       <stop offset="100%" stop-color="#dce6f2"/>
-      <animateTransform attributeName="gradientTransform" type="translate" from="-300 0" to="640 0" dur="7s" begin="1s" repeatCount="indefinite"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="-300 0" to="640 0" dur="3.5s" begin=".4s" repeatCount="indefinite"/>
     </linearGradient>
 
     <!-- depth bars fade outward from the price column -->
@@ -66,34 +66,34 @@
         <line x1="450" y1="0" x2="450" y2="300"/>
         <line x1="750" y1="0" x2="750" y2="300"/>
         <line x1="1050" y1="0" x2="1050" y2="300"/>
-        <animateTransform attributeName="transform" type="translate" from="0 0" to="-300 0" dur="28s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate" from="0 0" to="-300 0" dur="18s" repeatCount="indefinite"/>
       </g>
     </g>
 
     <!-- sweeping scan beam -->
     <rect x="-160" y="0" width="160" height="300" fill="url(#beam)">
-      <animateTransform attributeName="transform" type="translate" from="0 0" to="1360 0" dur="8s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="1360 0" dur="4s" repeatCount="indefinite"/>
     </rect>
 
     <!-- ============ TITLE BLOCK ============ -->
     <g>
       <text x="70" y="92" font-size="40" font-weight="650" fill="url(#titleGrad)" letter-spacing="0.5">The Order Book
-        <animate attributeName="opacity" values="0;1" dur="1.4s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1" dur=".6s" fill="freeze"/>
       </text>
       <text x="72" y="124" font-size="15" fill="#9aa4b2" letter-spacing="2.5">BIDS · ASKS · QUOTES · PRINTS
-        <animate attributeName="opacity" values="0;0;1" keyTimes="0;.4;1" dur="2.2s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;0;1" keyTimes="0;.4;1" dur="1s" fill="freeze"/>
       </text>
 
       <!-- tick-to-trade readout: value flickers like a live latency monitor -->
       <text x="72" y="156" font-size="13" fill="#6e7a8a" letter-spacing="1.2">tick-to-trade</text>
       <g font-size="13" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" fill="#5DCAA5">
-        <text x="182" y="156">0.9 µs<animate attributeName="opacity" calcMode="discrete" values="1;0;0" keyTimes="0;.33;.66" dur="5.4s" repeatCount="indefinite"/></text>
-        <text x="182" y="156">1.4 µs<animate attributeName="opacity" calcMode="discrete" values="0;1;0" keyTimes="0;.33;.66" dur="5.4s" repeatCount="indefinite"/></text>
-        <text x="182" y="156">1.1 µs<animate attributeName="opacity" calcMode="discrete" values="0;0;1" keyTimes="0;.33;.66" dur="5.4s" repeatCount="indefinite"/></text>
+        <text x="182" y="156">0.9 µs<animate attributeName="opacity" calcMode="discrete" values="1;0;0" keyTimes="0;.33;.66" dur="2.7s" repeatCount="indefinite"/></text>
+        <text x="182" y="156">1.4 µs<animate attributeName="opacity" calcMode="discrete" values="0;1;0" keyTimes="0;.33;.66" dur="2.7s" repeatCount="indefinite"/></text>
+        <text x="182" y="156">1.1 µs<animate attributeName="opacity" calcMode="discrete" values="0;0;1" keyTimes="0;.33;.66" dur="2.7s" repeatCount="indefinite"/></text>
       </g>
 
       <text x="72" y="188" font-size="13" fill="#6e7a8a" letter-spacing="1.2">every quote is a bet · every print settles it
-        <animate attributeName="opacity" values="0;0;.9" keyTimes="0;.6;1" dur="3.2s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;0;.9" keyTimes="0;.6;1" dur="1.2s" fill="freeze"/>
       </text>
     </g>
 
@@ -101,7 +101,7 @@
 
     <!-- mid-price line flowing through the spread -->
     <line x1="410" y1="157" x2="880" y2="157" stroke="#AFA9EC" stroke-width="1" stroke-dasharray="3 6" opacity=".3">
-      <animate attributeName="stroke-dashoffset" from="0" to="-90" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="stroke-dashoffset" from="0" to="-90" dur="3s" repeatCount="indefinite"/>
     </line>
     <text x="470" y="150" font-size="9" fill="#AFA9EC" letter-spacing="2" opacity=".7">SPREAD</text>
 
@@ -112,32 +112,32 @@
     <!-- ask depth: resting sell liquidity, sizes breathing -->
     <g>
       <rect x="700" y="130" height="16" rx="3" fill="url(#askGrad)" width="150">
-        <animate attributeName="width" values="150;96;180;60;150" dur="6s" repeatCount="indefinite"/>
+        <animate attributeName="width" values="150;96;180;60;150" dur="3s" repeatCount="indefinite"/>
       </rect>
       <rect x="700" y="104" height="16" rx="3" fill="url(#askGrad)" width="110">
-        <animate attributeName="width" values="110;160;80;130;110" dur="7.5s" repeatCount="indefinite"/>
+        <animate attributeName="width" values="110;160;80;130;110" dur="3.8s" repeatCount="indefinite"/>
       </rect>
       <rect x="700" y="78" height="16" rx="3" fill="url(#askGrad)" width="70">
-        <animate attributeName="width" values="70;120;150;90;70" dur="9s" repeatCount="indefinite"/>
+        <animate attributeName="width" values="70;120;150;90;70" dur="4.5s" repeatCount="indefinite"/>
       </rect>
       <rect x="700" y="52" height="16" rx="3" fill="url(#askGrad)" width="130">
-        <animate attributeName="width" values="130;70;100;160;130" dur="8s" repeatCount="indefinite"/>
+        <animate attributeName="width" values="130;70;100;160;130" dur="4s" repeatCount="indefinite"/>
       </rect>
     </g>
 
     <!-- bid depth: mirrored, extends left; best bid gets pulled then refills -->
     <g transform="translate(580 0) scale(-1 1)">
       <rect x="0" y="168" height="16" rx="3" fill="url(#bidGrad)" width="120">
-        <animate attributeName="width" values="120;180;90;16;140;120" dur="7s" repeatCount="indefinite"/>
+        <animate attributeName="width" values="120;180;90;16;140;120" dur="3.5s" repeatCount="indefinite"/>
       </rect>
       <rect x="0" y="194" height="16" rx="3" fill="url(#bidGrad)" width="160">
-        <animate attributeName="width" values="160;100;140;180;160" dur="8.5s" repeatCount="indefinite"/>
+        <animate attributeName="width" values="160;100;140;180;160" dur="4.2s" repeatCount="indefinite"/>
       </rect>
       <rect x="0" y="220" height="16" rx="3" fill="url(#bidGrad)" width="90">
-        <animate attributeName="width" values="90;140;70;120;90" dur="6.5s" repeatCount="indefinite"/>
+        <animate attributeName="width" values="90;140;70;120;90" dur="1.2s" repeatCount="indefinite"/>
       </rect>
       <rect x="0" y="246" height="16" rx="3" fill="url(#bidGrad)" width="140">
-        <animate attributeName="width" values="140;90;160;110;140" dur="9.5s" repeatCount="indefinite"/>
+        <animate attributeName="width" values="140;90;160;110;140" dur="4.8s" repeatCount="indefinite"/>
       </rect>
     </g>
 
@@ -147,10 +147,10 @@
         <text x="640" y="64" opacity=".55">100.08</text>
         <text x="640" y="90" opacity=".7">100.05</text>
         <text x="640" y="116" opacity=".85">100.03</text>
-        <text x="640" y="142">100.02<animate attributeName="opacity" values="1;.45;1" dur="1.6s" repeatCount="indefinite"/></text>
+        <text x="640" y="142">100.02<animate attributeName="opacity" values="1;.45;1" dur="1s" repeatCount="indefinite"/></text>
       </g>
       <g fill="#5DCAA5">
-        <text x="640" y="180">100.00<animate attributeName="opacity" values="1;.45;1" dur="1.6s" begin=".8s" repeatCount="indefinite"/></text>
+        <text x="640" y="180">100.00<animate attributeName="opacity" values="1;.45;1" dur="1s" begin=".5s" repeatCount="indefinite"/></text>
         <text x="640" y="206" opacity=".85">99.99</text>
         <text x="640" y="232" opacity=".7">99.97</text>
         <text x="640" y="258" opacity=".55">99.94</text>
@@ -160,40 +160,40 @@
     <!-- incoming market order: streaks along the mid into the book -->
     <g>
       <rect x="-8" y="-1.5" width="16" height="3" rx="1.5" fill="#ffffff" filter="url(#glow)" opacity="0">
-        <animateMotion path="M 440 157 L 630 157" dur="2.5s" keyPoints="0;1;1" keyTimes="0;.12;1" calcMode="linear" repeatCount="indefinite"/>
-        <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.02;.1;.13;1" dur="2.5s" repeatCount="indefinite"/>
+        <animateMotion path="M 440 157 L 630 157" dur="1.5s" keyPoints="0;1;1" keyTimes="0;.12;1" calcMode="linear" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.02;.1;.13;1" dur="1.5s" repeatCount="indefinite"/>
       </rect>
     </g>
 
     <!-- execution flash at the touch -->
     <g>
       <circle cx="640" cy="157" r="2" fill="#ffffff" filter="url(#glow)">
-        <animate attributeName="r" values="2;2;16;16" keyTimes="0;.12;.26;1" dur="2.5s" repeatCount="indefinite"/>
-        <animate attributeName="opacity" values="0;.9;0;0" keyTimes="0;.12;.3;1" dur="2.5s" repeatCount="indefinite"/>
+        <animate attributeName="r" values="2;2;16;16" keyTimes="0;.12;.26;1" dur="1.5s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;.9;0;0" keyTimes="0;.12;.3;1" dur="1.5s" repeatCount="indefinite"/>
       </circle>
       <circle cx="640" cy="157" r="14" fill="none" stroke="#AFA9EC" stroke-width="1.2">
-        <animate attributeName="r" values="4;26" dur="2.5s" begin=".3s" repeatCount="indefinite"/>
-        <animate attributeName="opacity" values=".6;0" dur="2.5s" begin=".3s" repeatCount="indefinite"/>
+        <animate attributeName="r" values="4;26" dur="1.5s" begin=".2s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values=".6;0" dur="1.5s" begin=".2s" repeatCount="indefinite"/>
       </circle>
     </g>
 
     <!-- fills racing to the tape -->
     <g>
       <circle r="3.5" fill="#bfe6ff" opacity="0" filter="url(#soft)">
-        <animateMotion path="M 648 150 C 740 110 820 100 902 96" dur="5s" begin=".3s" keyPoints="0;1;1" keyTimes="0;.3;1" calcMode="linear" repeatCount="indefinite"/>
-        <animate attributeName="opacity" values="0;.9;.9;0;0" keyTimes="0;.04;.24;.3;1" dur="5s" begin=".3s" repeatCount="indefinite"/>
+        <animateMotion path="M 648 150 C 740 110 820 100 902 96" dur="3s" begin=".2s" keyPoints="0;1;1" keyTimes="0;.3;1" calcMode="linear" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;.9;.9;0;0" keyTimes="0;.04;.24;.3;1" dur="3s" begin=".2s" repeatCount="indefinite"/>
       </circle>
       <circle r="2" fill="#ffffff" opacity="0" filter="url(#glow)">
-        <animateMotion path="M 648 150 C 740 110 820 100 902 96" dur="5s" begin=".3s" keyPoints="0;1;1" keyTimes="0;.3;1" calcMode="linear" repeatCount="indefinite"/>
-        <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.04;.24;.3;1" dur="5s" begin=".3s" repeatCount="indefinite"/>
+        <animateMotion path="M 648 150 C 740 110 820 100 902 96" dur="3s" begin=".2s" keyPoints="0;1;1" keyTimes="0;.3;1" calcMode="linear" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.04;.24;.3;1" dur="3s" begin=".2s" repeatCount="indefinite"/>
       </circle>
       <circle r="3.5" fill="#bfe6ff" opacity="0" filter="url(#soft)">
-        <animateMotion path="M 648 164 C 750 205 830 175 902 142" dur="5s" begin="2.8s" keyPoints="0;1;1" keyTimes="0;.3;1" calcMode="linear" repeatCount="indefinite"/>
-        <animate attributeName="opacity" values="0;.9;.9;0;0" keyTimes="0;.04;.24;.3;1" dur="5s" begin="2.8s" repeatCount="indefinite"/>
+        <animateMotion path="M 648 164 C 750 205 830 175 902 142" dur="3s" begin="1.7s" keyPoints="0;1;1" keyTimes="0;.3;1" calcMode="linear" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;.9;.9;0;0" keyTimes="0;.04;.24;.3;1" dur="3s" begin="1.7s" repeatCount="indefinite"/>
       </circle>
       <circle r="2" fill="#ffffff" opacity="0" filter="url(#glow)">
-        <animateMotion path="M 648 164 C 750 205 830 175 902 142" dur="5s" begin="2.8s" keyPoints="0;1;1" keyTimes="0;.3;1" calcMode="linear" repeatCount="indefinite"/>
-        <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.04;.24;.3;1" dur="5s" begin="2.8s" repeatCount="indefinite"/>
+        <animateMotion path="M 648 164 C 750 205 830 175 902 142" dur="3s" begin="1.7s" keyPoints="0;1;1" keyTimes="0;.3;1" calcMode="linear" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.04;.24;.3;1" dur="3s" begin="1.7s" repeatCount="indefinite"/>
       </circle>
     </g>
 
@@ -201,14 +201,14 @@
     <text x="900" y="66" font-size="13" fill="#9aa4b2" letter-spacing="2">TIME &amp; SALES</text>
     <g>
       <circle cx="1106" cy="62" r="3.5" fill="#5DCAA5" filter="url(#glow)">
-        <animate attributeName="opacity" values="1;.25;1" dur="1.6s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="1;.25;1" dur="1s" repeatCount="indefinite"/>
       </circle>
       <text x="1116" y="66" font-size="11" fill="#5DCAA5" letter-spacing="1.5">LIVE</text>
     </g>
 
     <g clip-path="url(#tapeClip)" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="12">
       <g>
-        <animateTransform attributeName="transform" type="translate" from="0 0" to="0 -176" dur="9s" calcMode="linear" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate" from="0 0" to="0 -176" dur="4.5s" calcMode="linear" repeatCount="indefinite"/>
         <text x="900" y="98"  fill="#5DCAA5">10:24:03.117  100.02 ▲   300</text>
         <text x="900" y="120" fill="#F0716B">10:24:03.117  100.00 ▼   150</text>
         <text x="900" y="142" fill="#5DCAA5">10:24:03.118  100.02 ▲ 1,200</text>
