@@ -13,6 +13,11 @@
 &nbsp;
 <a href="mailto:jtmejon@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
+<br/>
+<br/>
+
+<img src="assets/orderbook.svg" width="100%" alt="Price discovery — a live limit order book: bids, asks, quotes, and prints streaming to the tape" />
+
 </div>
 
 ---
